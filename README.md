@@ -10,12 +10,10 @@
 
 可以添加 我为好友，并拉你进一个交流群，也可以关注视频号和公众号。
 
-
+![关于我_01](https://github.com/starqidian/itbeien-springcloudalibaba-master/assets/119275470/f35ea083-edfa-431e-8b0c-9cf969b20890)
 
 
 ## 两个仓库
 
 - github:https://github.com/starqidian/itbeien-springcloudalibaba-master
 - gitee:https://gitee.com/starqidian/itbeien-springcloudalibaba-master
-
-![关于我_01](https://github.com/starqidian/itbeien-springcloudalibaba-master/assets/119275470/f35ea083-edfa-431e-8b0c-9cf969b20890)
