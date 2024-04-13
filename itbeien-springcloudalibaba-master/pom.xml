@@ -23,6 +23,7 @@
     <modules>
         <module>itbeien-lab01</module>
         <module>itbeien-lab02</module>
+        <module>itbeien-lab03</module>
     </modules>
     <dependencyManagement>
         <dependencies>
