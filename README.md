@@ -4,13 +4,14 @@
 
 作为一个热爱深夜持续输出代码、文档、视频的源码爱好者，希望大佬能够**一键三连**。
 
-![](/img/一键三连.png)
+![一键三连](https://github.com/starqidian/itbeien-springcloudalibaba-master/assets/119275470/d750ffd3-7da9-43c4-bc1b-30de5a2ec99f)
 
 **交流群**
 
 可以添加 我为好友，并拉你进一个交流群，也可以关注视频号和公众号。
 
-![](img/关于我.png)
+![关于我](https://github.com/starqidian/itbeien-springcloudalibaba-master/assets/119275470/e72585f4-3de4-4a3f-828a-f804e9d5a088)
+
 
 ## 两个仓库
 
